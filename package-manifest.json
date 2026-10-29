@@ -14,7 +14,7 @@
     "SHA256SUMS.txt": "af169c0dabea01c2a6db65efefee9660f2edf821d32e13030f728fa39f3dd24c",
     "SKILL.md": "577523ce0ee97826ec25df4a0b26e70ba2fb8572afb15f3f6f6cbf0131f68c60",
     "source-provenance.json": "2708d5ef384585bedfda9d07a93ad214c7a9316fefd667796185d364c0265681",
-    "tools/verify_package.py": "fcaa34b55332bd3b4e5f6e2a2d3cd7bf6f46bfe64899f59800a503225eef8a8d"
+    "tools/verify_package.py": "c5bcaa618ab1a74856564b3168b2e6f39296a31a1353b05db4a1ae8d515cc6c2"
   },
   "scope": "All public files except this self-referential manifest and ignored runtime/cache/output directories."
 }

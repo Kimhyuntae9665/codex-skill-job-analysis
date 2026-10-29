@@ -2,6 +2,8 @@
 from pathlib import Path
 from urllib.parse import unquote,urlsplit
 import ast,hashlib,json,re,sys
+if hasattr(sys.stdout, 'reconfigure'):
+ sys.stdout.reconfigure(encoding='utf-8')
 R=Path(__file__).resolve().parents[1]
 M=json.loads((R/'package-manifest.json').read_text('utf8'))
 errors=[]
