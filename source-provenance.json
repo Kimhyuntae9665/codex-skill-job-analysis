@@ -1,0 +1,13 @@
+{
+  "skill": "직무분석",
+  "original_skill_sha256": "577523ce0ee97826ec25df4a0b26e70ba2fb8572afb15f3f6f6cbf0131f68c60",
+  "unchanged_original_files": [
+    "agents/openai.yaml",
+    "references/method.md",
+    "references/source-notes.md",
+    "SKILL.md"
+  ],
+  "public_adaptations": [],
+  "excluded_original_files": [],
+  "notes": "SKILL.md is copied exactly. Public adaptations remove account-specific observations or clarify generic comments. Excluded originals, if any, are runtime/cache/credential artifacts, not hidden required dependencies. Repository LICENSE applies to original local skill/bridge additions; third-party material retains its own terms."
+}

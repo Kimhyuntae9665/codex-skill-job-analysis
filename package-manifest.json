@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "skill_name": "직무분석",
+  "original_skill_sha256": "577523ce0ee97826ec25df4a0b26e70ba2fb8572afb15f3f6f6cbf0131f68c60",
+  "files": {
+    ".gitattributes": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    ".github/workflows/validate.yml": "5557ef756914f18c41911f3c22041474b41a9113cad6954c4892af0a98c9c0cc",
+    ".gitignore": "0237849e2c5e42f0d0eeb10d94f47151175ca3816e0ff4b8070c12fc0eac20fc",
+    "agents/openai.yaml": "4c5f1a588e7c22ef2a4c037460691f4fbf875dda43f57dee46d6a11a60ad539d",
+    "LICENSE": "99f4bd3ae72079beb27335101dbdc0b195dce89f492ab6f0e00dc7a589b0ca2d",
+    "README.md": "4c886bf1dac70dba1b760a42b8d5cb11383a36fa1aabf935dc9d10fef0254fc6",
+    "references/method.md": "6b3a947c3ad0f1049321dbec2c6a73c96b28c48bbd8d4593126ddda2620a0525",
+    "references/source-notes.md": "77d75ad4c85801cc11f37794e943a11f9f105512096cf10966c1415b52db782d",
+    "SHA256SUMS.txt": "af169c0dabea01c2a6db65efefee9660f2edf821d32e13030f728fa39f3dd24c",
+    "SKILL.md": "577523ce0ee97826ec25df4a0b26e70ba2fb8572afb15f3f6f6cbf0131f68c60",
+    "source-provenance.json": "2708d5ef384585bedfda9d07a93ad214c7a9316fefd667796185d364c0265681",
+    "tools/verify_package.py": "fcaa34b55332bd3b4e5f6e2a2d3cd7bf6f46bfe64899f59800a503225eef8a8d"
+  },
+  "scope": "All public files except this self-referential manifest and ignored runtime/cache/output directories."
+}
